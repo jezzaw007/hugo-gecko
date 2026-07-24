@@ -1,0 +1,9 @@
+basedir: hugo-164-ext
+languageCode: en-us
+title: Strawberry Gecko
+baseURL: https://hugo-gecko.pages.dev
+theme: hugo-164-ext
+
+params:
+  theme:
+    name: hugo-164-ext
