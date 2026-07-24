@@ -1,0 +1,33 @@
+name: Deploy Hugo Extended to Cloudflare Pages
+
+on:
+  push:
+    branches:
+      - hugoext164
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Hugo Extended
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.164-extended'
+          extended: true
+
+      - name: Build with Hugo
+        run: |
+          echo "Building Hugo site..."
+          hugo --baseURL https://hugo-gecko.pages.dev
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: hugo-gecko
+          entryPoint: ./public/
+          branch: hugoext164
+          commitMessage: "Deploy Hugo site from hugoext164 branch"
