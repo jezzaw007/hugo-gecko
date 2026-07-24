@@ -18,49 +18,11 @@ baseURL = 'https://strawberrygecko.net/'
 
 # Branding
 [params.branding]
-  logo = 'https://strawberrygecko.net/logo.svg'
-  favicon = 'https://strawberrygecko.net/favicon.ico'
-  appleTouchIcon = 'https://strawberrygecko.net/apple-touch-icon.png'
+  logo = 'logo.svg'
+  favicon = 'favicon.ico'
 
-# Colors (Professional IT palette)
-[params.colors]
-  primary = '#2563eb'
-  primaryDark = '#1d4ed8'
-  secondary = '#64748b'
-  accent = '#06b6d4'
-  background = '#ffffff'
-  backgroundDark = '#0f172a'
-  text = '#1e293b'
-  textMuted = '#64748b'
-
-# Navigation
-[params.navigation]
-  enableDarkMode = true
-  enableLanguageSwitcher = true
-  enableSearch = true
-
-# Footer
-[params.footer]
-  copyright = '© 2024 Strawberry Gecko Ltd. All rights reserved.'
-  privacyPolicy = true
-  termsOfService = true
-  cookiesPolicy = true
-
-# SEO
-[params.seo]
-  enableSitemap = true
-  enableRobotsTxt = true
-  enableOpenGraph = true
-  enableTwitterCards = true
-  enableStructuredData = true
-
-# Analytics
-[params.analytics]
-  google = ''  # Add your GA4 ID here
-  plausible = ''
-  plausibleDomain = ''
-
-# Fonts
-[params.fonts]
-  fontFamily = 'Inter'
-  headingFontFamily = 'Montserrat'
+[params.links]
+  twitter = 'https://twitter.com/strawberrygecko'
+  github = 'https://github.com/StrawberryGecko'
+  linkedin = 'https://linkedin.com/company/strawberrygecko'
+  email = 'info@strawberrygecko.net'
