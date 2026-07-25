@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+date: 2026-07-25
 ---
 
 ## Get In Touch
