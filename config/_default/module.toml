@@ -1,0 +1,10 @@
+[[imports]]
+path = "github.com/nunocoracao/blowfish/v2"
+
+[[imports.mounts]]
+source = "assets"
+target = "assets"
+
+[[imports.mounts]]
+source = "layouts"
+target = "layouts"
