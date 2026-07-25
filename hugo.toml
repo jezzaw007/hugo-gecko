@@ -1,31 +1,8 @@
-# Professional IT Company Website
-baseURL = 'https://strawberrygecko.net/'
-theme = 'blowfish'
+baseURL = "https://strawberrygecko.net/"
+theme = "blowfish"
 defaultContentLanguage = "en"
+
 enableRobotsTXT = true
-pagination.pagerSize = 6
-summaryLength = 0
 
-[params]
-  title = 'Strawberry Gecko - Professional IT Solutions'
-  description = 'Enterprise-grade IT infrastructure, cloud solutions, and managed services'
-  keywords = ['IT services', 'cloud', 'infrastructure', 'managed services', 'devops', 'automation', 'security']
-
-[params.author]
-  name = 'Strawberry Gecko Ltd'
-
-# Theme parameters
-[params.theme]
-  version = 'v0.158.0'
-  themeVersion = 'v0.158.0'
-
-# Branding
-[params.branding]
-  logo = 'logo.svg'
-  favicon = 'favicon.ico'
-
-[params.links]
-  twitter = 'https://twitter.com/strawberrygecko'
-  github = 'https://github.com/StrawberryGecko'
-  linkedin = 'https://linkedin.com/company/strawberrygecko'
-  email = 'info@strawberrygecko.net'
+[pagination]
+pagerSize = 6
