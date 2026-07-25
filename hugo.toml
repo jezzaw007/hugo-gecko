@@ -1,15 +1,16 @@
 # Professional IT Company Website
 baseURL = 'https://strawberrygecko.net/'
+theme = 'blowfish'
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+pagination.pagerSize = 6
+summaryLength = 0
 
 [params]
   title = 'Strawberry Gecko - Professional IT Solutions'
   description = 'Enterprise-grade IT infrastructure, cloud solutions, and managed services'
   keywords = 'IT services, cloud, infrastructure, managed services, devops, automation, security'
   author = 'Strawberry Gecko Ltd'
-
-# Theme configuration
-[theme]
-  name = 'blowfish'
 
 # Theme parameters
 [params.theme]
