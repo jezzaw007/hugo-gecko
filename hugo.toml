@@ -9,8 +9,10 @@ summaryLength = 0
 [params]
   title = 'Strawberry Gecko - Professional IT Solutions'
   description = 'Enterprise-grade IT infrastructure, cloud solutions, and managed services'
-  keywords = ['IT services, cloud, infrastructure, managed services, devops, automation, security']
-  author = 'Strawberry Gecko Ltd'
+  keywords = ['IT services', 'cloud', 'infrastructure', 'managed services', 'devops', 'automation', 'security']
+
+[params.author]
+  name = 'Strawberry Gecko Ltd'
 
 # Theme parameters
 [params.theme]
