@@ -37,5 +37,4 @@ Strawberry Gecko provides infrastructure engineering, automation and security se
 ---
 
 ## Location
-Bristol
-United Kingdom
+Bristol - United Kingdom
