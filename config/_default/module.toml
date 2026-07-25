@@ -1,7 +1,1 @@
-[[imports.mounts]]
-source = "assets"
-target = "assets"
 
-[[imports.mounts]]
-source = "layouts"
-target = "layouts"
