@@ -23,4 +23,4 @@ No unnecessary complexity. No vendor hype. Just effective engineering.
 
 [Get in touch](/contact/)
 
-Email: hello@strawberrygecko.co.uk
+Email: info@strawberrygecko.co.uk
