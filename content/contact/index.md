@@ -10,7 +10,7 @@ Get in touch to discuss infrastructure, security, automation or operational impr
 
 ### Contact Information
 
-**Email:** hello@strawberrygecko.co.uk
+**Email:** info@strawberrygecko.co.uk
 
 ### Services
 
@@ -37,5 +37,5 @@ Strawberry Gecko provides infrastructure engineering, automation and security se
 ---
 
 ## Location
-
+Bristol
 United Kingdom
