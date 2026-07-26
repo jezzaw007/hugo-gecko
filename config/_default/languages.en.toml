@@ -9,15 +9,15 @@ title = "Strawberry Gecko"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2026"
-  logo = "img/logo-light.png"
-  secondaryLogo = "img/logo-dark.png"
+  logo = "logo-light.png"
+  secondaryLogo = "logo-dark.png"
   description = "Systems administration, network infrastructure engineering, and self-hosted IT solutions."
   copyright = "© 2026 Strawberry Gecko - All rights reserved."
 
 [params.author]
   name = "Strawberry Gecko"
   email = "info@strawberrygecko.net"
-  image = "img/logo.png"
+  image = "logo.svg"
   imageQuality = 96
   headline = "IT Systems & Infrastructure Engineering"
   bio = "Specializing in self-hosted architectures, network engineering, and resilient systems."
