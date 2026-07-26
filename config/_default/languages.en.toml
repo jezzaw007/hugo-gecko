@@ -9,19 +9,18 @@ title = "Strawberry Gecko"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2026"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  logo = "img/logo-light.png"
+  secondaryLogo = "img/logo-dark.png"
+  description = "Systems administration, network infrastructure engineering, and self-hosted IT solutions."
+  copyright = "copyright = "© 2026 Strawberry Gecko. All rights reserved.""
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
+[params.author]
+  name = "Strawberry Gecko"
+  email = "info@strawberrygecko.net"
+  image = "img/logo.png"
+  imageQuality = 96
+  headline = "IT Systems & Infrastructure Engineering"
+  bio = "Specializing in self-hosted architectures, network engineering, and resilient systems."#   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -45,7 +44,7 @@ title = "Strawberry Gecko"
 #     { keyoxide = "https://keyoxide.org/URI" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
+    { linkedin = "https://linkedin.com/in/jezzwilliams" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { matrix = "https://matrix.to/#/URI" },
 #     { medium = "https://medium.com/username" },
@@ -76,4 +75,4 @@ title = "Strawberry Gecko"
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
 #     { printables = "https://www.printables.com/@username"},
-#   ]
+  ]
