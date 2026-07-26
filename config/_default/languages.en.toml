@@ -12,7 +12,7 @@ title = "Strawberry Gecko"
   logo = "img/logo-light.png"
   secondaryLogo = "img/logo-dark.png"
   description = "Systems administration, network infrastructure engineering, and self-hosted IT solutions."
-  copyright = "© 2026 Strawberry Gecko. All rights reserved.""
+  copyright = "© 2026 Strawberry Gecko - All rights reserved."
 
 [params.author]
   name = "Strawberry Gecko"
