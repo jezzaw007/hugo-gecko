@@ -6,7 +6,7 @@ weight: 1
 
 # Practical IT Solutions for Modern Businesses
 
-## 29 years of IT experience. Zero-trust remote services. No site visits needed.
+## 25 years of IT experience. Zero-trust remote services. No site visits needed.
 
 ---
 
@@ -175,7 +175,7 @@ weight: 1
 
 ## About Strawberry Gecko
 
-With 29 years of experience in IT, I've helped organisations modernise their infrastructure, improve security posture, and automate operational workloads. All services delivered remotely through zero-trust connections, ensuring security and efficiency.
+With 25 years of experience in IT, I've helped organisations modernise their infrastructure, improve security posture, and automate operational workloads. All services delivered remotely through zero-trust connections, ensuring security and efficiency.
 
 <div style="display: flex; align-items: center; gap: 2rem; margin: 2rem 0;">
   <div style="flex: 1;">
