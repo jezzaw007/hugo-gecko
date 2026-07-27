@@ -1,6 +1,6 @@
 ---
 title: "Strawberry Gecko"
-description: "Practical infrastructure engineering, cyber security and automation."
+description: "Infrastructure engineering, cyber security and automation."
 ---
 
 ## Secure Infrastructure. Automated Operations.
@@ -11,7 +11,7 @@ Strawberry Gecko helps organisations improve security posture, modernise infrast
 
 - **Cyber Security** - Security assessments, hardening, identity protection
 - **Infrastructure Engineering** - Modern platform design and implementation
-- **Automation** - PowerShell, Ansible, Terraform, CI/CD workflows
+- **Automation** - PowerShell, Ansible, CI/CD workflows
 - **Observability & Monitoring** - Metrics, dashboards, alerting, log aggregation
 - **Documentation** - Runbooks, technical standards, knowledge management
 

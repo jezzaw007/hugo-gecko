@@ -1,10 +1,15 @@
 baseURL = "https://strawberrygecko.net/"
 theme = "blowfish"
 defaultContentLanguage = "en"
-
 enableRobotsTXT = true
 
 # UK date format: Day Month Year (e.g., "15 January 2026")
+
+[module]
+    path = "themes/blowfish"
+    disable = false
+    mount = "/themes"
+
 [imaging]
   quality = 75
   resizeAlgorithm = "lanczos"
@@ -15,3 +20,14 @@ enableRobotsTXT = true
 
 [pagination]
 pagerSize = 6
+
+# Author logo - workaround for broken theme partial
+[params.Logo]
+  path = "static/logo/logo.svg"
+
+[security]
+  # ... other security settings ...
+
+[security.http]
+  methods = ['(?i)GET|POST']
+  urls = ['.*']
