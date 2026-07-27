@@ -22,8 +22,6 @@ enableRobotsTXT = true
 pagerSize = 6
 
 # Author logo - workaround for broken theme partial
-[params.Logo]
-  path = "static/logo/logo.svg"
 
 [security]
   # ... other security settings ...
