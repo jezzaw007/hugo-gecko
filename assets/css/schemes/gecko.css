@@ -35,23 +35,7 @@
   --color-secondary-900: 120, 53, 15;
 }
 
-/* Apply background image and base styling */
-body {
-  background-image: url('/background2.png');
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-color: rgb(var(--color-neutral-900));
-}
-
-/* Apply color scheme to main content areas */
-main, article, section {
-  background-color: rgba(var(--color-neutral-50), 0.95);
-  color: rgb(var(--color-neutral-900));
-}
-
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
   color: rgb(var(--color-primary-600));
 }
 
