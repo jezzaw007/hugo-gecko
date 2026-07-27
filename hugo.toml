@@ -14,10 +14,6 @@ enableRobotsTXT = true
   quality = 75
   resizeAlgorithm = "lanczos"
 
-# Date format for blog posts and content
-[params.dateFormat]
-  main = "2 January 2006"
-
 [pagination]
 pagerSize = 6
 
