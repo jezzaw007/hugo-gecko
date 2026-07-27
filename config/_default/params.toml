@@ -68,7 +68,7 @@ customCSS = ["css/schemes/gecko.css"]
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "/img/background2.png" # used in: hero, and card
+  homepageImage = "background2.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
   showMoreLink = true
