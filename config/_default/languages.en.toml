@@ -8,9 +8,9 @@ title = "Strawberry Gecko"
   displayName = "EN"
   isoCode = "en"
   rtl = false
-  dateFormat = "2006"
-  logo = "logo-light.png"
-  secondaryLogo = "logo-dark.png"
+  dateFormat = "2 January 2006"
+  logo = "logo/logo-light.png"
+  secondaryLogo = "logo/logo-dark.png"
   description = "Systems administration, network infrastructure engineering, and self-hosted IT solutions."
   copyright = "© 2026 Strawberry Gecko - All rights reserved."
 
