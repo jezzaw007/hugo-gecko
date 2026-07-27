@@ -17,7 +17,7 @@ title = "Strawberry Gecko"
 [params.author]
   name = "Strawberry Gecko"
   email = "info@strawberrygecko.net"
-  image = "logo-dark.svg"
+  image = "logo/logo-dark.svg"
   imageQuality = 96
   headline = "IT Systems & Infrastructure Engineering"
   bio = "Specializing in self-hosted architectures, network engineering, and resilient systems."
