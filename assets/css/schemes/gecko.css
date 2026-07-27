@@ -1,0 +1,27 @@
+:root {
+
+  /* Backgrounds */
+  --gecko-bg: #1f2733;
+  --gecko-bg-secondary: #2a3545;
+  --gecko-surface: #344050;
+
+  /* Primary Cyber Cyan */
+  --gecko-cyan: #1ad9ff;
+  --gecko-cyan-soft: #4de5ff;
+  --gecko-cyan-glow: rgba(26, 217, 255, 0.35);
+
+  /* Amber / Orange Accent */
+  --gecko-amber: #ffb347;
+  --gecko-amber-soft: #ffc76a;
+  --gecko-amber-glow: rgba(255, 179, 71, 0.35);
+
+  /* Text */
+  --gecko-text: #f5f7fa;
+  --gecko-text-secondary: #c0c9d4;
+  --gecko-text-muted: #8d99a8;
+
+  /* Borders */
+  --gecko-border: rgba(26, 217, 255, 0.15);
+  --gecko-border-hover: rgba(26, 217, 255, 0.35);
+
+}
